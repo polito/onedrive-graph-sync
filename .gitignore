@@ -1,0 +1,5 @@
+node_modules/
+dist/
+files/
+.env
+modified_files.txt

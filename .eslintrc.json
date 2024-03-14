@@ -1,0 +1,17 @@
+{
+    "env": {
+        "es2021": true,
+        "node": true
+    },
+    "extends": [
+        "airbnb-typescript/base",
+        "plugin:import/recommended"
+    ],
+    "ignorePatterns": [
+        "_no/**/*.*"
+    ],
+    "parserOptions": {
+        "project": "./tsconfig.json"
+    },
+    "rules": {}
+}
